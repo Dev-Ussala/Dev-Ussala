@@ -2,7 +2,7 @@
 
 🌱 Hi! I'm Euclides Ussala, a high school student studying Information Technology (IT). I'm passionate about technology, programming, and learning new things. I'm always open to new challenges and opportunities to improve my skills and grow as a developer. 🚀  
 
-### 🛠️ **My Skills**
+### **
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,windows)](https://skillicons.dev)
 
 <hr/>
